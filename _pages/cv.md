@@ -36,7 +36,7 @@ Work Experience
 Awards and Funding
 ======
 **Awards**
-* Young Women Engineer Award (Premio Ingeniera Joven) CIP 2025, College of Engineers of Peru
+* Young Women Engineer Award (Premio Ingeniera Joven CIP) 2025, College of Engineers of Peru
 * 2023 Outstanding Master’s Thesis Award, University of Wisconsin – Green Bay, USA
 * Victor Miguel Ponce Water Engineering Award 2022, Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   

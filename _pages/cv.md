@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 Education
 ======
@@ -44,26 +44,19 @@ Work experience
 * 01/2015-03/2015: Project Intern
   * Peru Hydraulics SAC, Peru
   
-Languages
-======
-* Spanish
-* English
-* Portuguese
-
 Awards and Funding
 ======
+**Awards**
 * Young Women Engineer Award (Premio Ingeniera Joven) CIP 2025, College of Engineers of Peru
 * 2023 Outstanding Master’s Thesis Award, University of Wisconsin – Green Bay, USA
 * Victor Miguel Ponce Water Engineering Award 2022, Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   
-Fellowships
-======
+**Fellowships**
 * CMM PhD Visiting Program 2025, Center for Mathematical Modeling at the University of Chile
 * Barbara Hauxhurst Cofrin Graduate Research Fellowship 2022-2023, University of Wisconsin – Green Bay, USA
 * Silver Phoenix Scholar Award 2021, University of Wisconsin – Green Bay, USA
   
-Travel Grants
-======
+**Travel Grants**
 * Appalachian Center Student Travel Award, University of Kentucky, USA
 * Research Funding with a University Social Responsibility (USR) Focus (2021), Pontifical Catholic University of Peru
 * Bachelor’s Thesis Development Support Program - PADET (2019), Pontifical Catholic University of Peru
@@ -87,4 +80,8 @@ Service and Outreach
 **At Onewater**
 * Current volunteer translator from English to Spanish
 
-
+Languages
+======
+* Spanish
+* English
+* Portuguese

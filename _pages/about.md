@@ -9,7 +9,7 @@ redirect_from:
 
 I am a passionate of the diversity of natural landscapes and systems. Originally from Peru, my professional experience provided me with a broader perspective when studying natural ecosystems. My research endeavors aim not only seeking solutions to environmental challenges, such as human activity and global change, but also studying the knowledge behind these ecological processes. 
 
-Besides my academic journey, I work as an environmental consultant on projects related to the Andes-Amazon region in the private and non-profit sectors. I have participated in grant writing of research projects in Peru and coordinated outreach activities such as participatory monitoring, citizen science, and the design and layout of project products for different audiences. 
+Besides my academic journey, I work as an environmental consultant on projects related to the Andes-Amazon region in the private and non-profit sectors. I have participated in grant writing of research projects in Peru and coordinated outreach activities including participatory monitoring, citizen science, and the design and layout of project products for different audiences. 
 
 Research Work
 ======

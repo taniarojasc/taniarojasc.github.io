@@ -55,7 +55,8 @@ Awards and Funding
 Service and Outreach
 ======
 **University of Kentucky**
-* International Students' Affairs Representative, Biology Graduate Students Association
+* 2024-2025 International Students' Affairs Representative, Biology Graduate Students Association
+* Artwork “Monarch and Milkweed” (Watercolor on Paper), exhibited at the Spring 2024 GSC Pop-Up Student Art Exhibit, Gatton Student Center
 
 **University of Wisconsin – Green Bay**
 * Display of ‘Discovering Aquatic Invertebrates’ during the Biodiversity Day, an event hosted by the Cofrin Center for Biodiversity-Community Science Outreach Team at the STEM Innovation Center

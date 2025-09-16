@@ -17,4 +17,4 @@ My research integrates remote sensing, GIS, and quantitative modeling to investi
 
 Contact me
 ------
-You can contact me via email at tania[dot]rojas[at]uky[dot]edu or tvrojas02[at]gmail[dot]com
+You can contact me via email at **tania[dot]rojas[at]uky[dot]edu** or **tvrojas02[at]gmail[dot]com**

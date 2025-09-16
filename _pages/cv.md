@@ -13,7 +13,7 @@ Education
 * 2023, M.S. in Environmental Science & Policy. Emphasis in Ecosystem Studies. University of Wisconsin-Green Bay
 * 2018, B.S. in Civil Engineering. Pontifical Catholic University of Peru
 
-Work experience
+Work Experience
 ======
 * 08/2023-present: **Graduate Research Assistant and Teaching Assistant**, Department of Biology, University of Kentucky, USA
 
@@ -54,19 +54,19 @@ Awards and Funding
   
 Service and Outreach
 ======
-**At the University of Kentucky**
+**University of Kentucky**
 * International Students' Affairs Representative, Biology Graduate Students Association
 
-**At the University of Wisconsin – Green Bay**
+**University of Wisconsin – Green Bay**
 * Display of ‘Discovering Aquatic Invertebrates’ during the Biodiversity Day, an event hosted by the Cofrin Center for Biodiversity-Community Science Outreach Team at the STEM Innovation Center
 * Secretary, Scientific Illustration Club. Publication of a nature journal inspired by Door County’s Toft Point Natural Area, Wisconsin
 
-**At the University of Engineering and Technology (UTEC)**
+**University of Engineering and Technology (UTEC)**
 * Coordinator of the LOC. V Peruvian Water Congress in Peru
 * Coordinator of the LOC & Proposal Writer. Proposal submitted to the Mountain Research Initiative (MRI) to organize the I Tropical Glaciers Symposium in Peru
 * Academic Coordinator of “Interdisciplinary Projects” (formerly “Vive la Ingenieria”) in collaboration with the Smithsonian Institution and Social Lab, and the “Summer Camp 2018”, a workshop addressed to high school students to discuss environmental topics such as wetland conservation, water quality, wastewater treatment, and climate change
 
-**At Onewater**
+**Onewater**
 * Current volunteer translator from English to Spanish
 
 Languages

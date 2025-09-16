@@ -1,4 +1,4 @@
-# The following is the order of the links in the header of the website.
+t# The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
@@ -20,8 +20,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Outreach"
-    url: /outreach/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/

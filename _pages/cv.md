@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
-
 Education
 ======
 * 2023 - present, Ph.D. in Biology, University of Kentucky
@@ -17,32 +15,23 @@ Education
 
 Work experience
 ======
-* 08/2023-present: Graduate Research Assistant and Teaching Assistant
-  * Department of Biology, University of Kentucky, USA
+* 08/2023-present: **Graduate Research Assistant and Teaching Assistant**, Department of Biology, University of Kentucky, USA
 
-* 05/2023-07/2023: Field Assistant
-  * Cofrin Center for Biodiversity, University of Wisconsin – Green Bay, USA
+* 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin – Green Bay, USA
 
-* 05/2022-08/2022: Student Biological Science Technician
-  * Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
+* 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
  
-* 09/2021-05/2023: Graduate Research Assistant
-  * Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
+* 09/2021-05/2023: **Graduate Research Assistant**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
  
-* 11/2021-01/2022: Sustainability Research, Policy, and Engagement Intern
-  * Environmental and Management Business Institute, University of Wisconsin – Green Bay, USA
+* 11/2021-01/2022: **Sustainability Research, Policy, and Engagement Intern**, Environmental and Management Business Institute, University of Wisconsin – Green Bay, USA
  
-* 04/2021-present: Project Engineer and Environmental Consultant
-  * RED YAKU, Peru
+* 04/2021-present: **Project Engineer and Environmental Consultant**, RED YAKU, Peru
  
-* 08/2019-05/2020: Research Analyst
-  * Office of Research, University of Engineering and Technology (UTEC), Peru
+* 08/2019-05/2020: **Research Analyst**, Office of Research, University of Engineering and Technology (UTEC), Peru
  
-* 01/2017-03/2021: Research Assistant and Formulator of Environmental Projects
-  * Water Research Center CITA, University of Engineering and Technology (UTEC), Peru
+* 01/2017-03/2021: **Research Assistant and Formulator of Environmental Projects**, Water Research Center CITA, University of Engineering and Technology (UTEC), Peru
  
-* 01/2015-03/2015: Project Intern
-  * Peru Hydraulics SAC, Peru
+* 01/2015-03/2015: **Project Intern**, Peru Hydraulics SAC, Peru
   
 Awards and Funding
 ======

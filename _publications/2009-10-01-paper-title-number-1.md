@@ -2,8 +2,6 @@
 title: "Coastal Wetlands Drive Isotopic Niche Plasticity of Top Predator Fish Communities in Green Bay, Lake Michigan (USA)"
 collection: publications
 category: manuscripts
-permalink: 
-excerpt: ''
 date: 2009-10-01
 venue: 'Ecology and Evolution'
 paperurl: 'https://doi.org/10.1002/ece3.71463'

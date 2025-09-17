@@ -65,7 +65,6 @@ Service and Outreach
 **University of Engineering and Technology (UTEC)**
 * Coordinator of the LOC. V Peruvian Water Congress in Peru
 * Coordinator of the LOC & Proposal Writer. Proposal submitted to the Mountain Research Initiative (MRI) to organize the I Tropical Glaciers Symposium in Peru
-* Academic Coordinator of “Interdisciplinary Projects” (formerly “Vive la Ingenieria”) in collaboration with the Smithsonian Institution and Social Lab, and the “Summer Camp 2018”, a workshop addressed to high school students to discuss environmental topics such as wetland conservation, water quality, wastewater treatment, and climate change
 
 **Onewater**
 * Current volunteer translator from English to Spanish

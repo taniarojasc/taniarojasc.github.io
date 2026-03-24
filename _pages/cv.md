@@ -15,17 +15,13 @@ Education
 
 Work Experience
 ======
-* 08/2023-present: **Graduate Research Assistant and Teaching Assistant**, Department of Biology, University of Kentucky, USA
-
 * 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin – Green Bay, USA
+  
+* 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA 
 
-* 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
- 
-* 09/2021-05/2023: **Graduate Research Assistant**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA
- 
 * 11/2021-01/2022: **Sustainability Research, Policy, and Engagement Intern**, Environmental and Management Business Institute, University of Wisconsin – Green Bay, USA
- 
-* 04/2021-present: **Project Engineer and Environmental Consultant**, RED YAKU, Peru
+  
+*  04/2021-present: **Environmental Consultant**, RED YAKU, Peru
  
 * 08/2019-05/2020: **Research Analyst**, Office of Research, University of Engineering and Technology (UTEC), Peru
  
@@ -33,23 +29,23 @@ Work Experience
  
 * 01/2015-03/2015: **Project Intern**, Peru Hydraulics SAC, Peru
   
-Awards and Funding
+Funding
 ======
 **Awards**
 * Young Women Engineer Award (Premio Ingeniera Joven CIP) 2025, College of Engineers of Peru
 * 2023 Outstanding Master’s Thesis Award, University of Wisconsin – Green Bay, USA
 * Victor Miguel Ponce Water Engineering Award 2022, Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   
-**Fellowships**
+**Fellowships and Grants**
 * CMM PhD Visiting Program 2025, Center for Mathematical Modeling at the University of Chile
 * Barbara Hauxhurst Cofrin Graduate Research Fellowship 2022-2023, University of Wisconsin – Green Bay, USA
 * Silver Phoenix Scholar Award 2021, University of Wisconsin – Green Bay, USA
-  
-**Travel Grants**
-* Appalachian Center Student Travel Award, University of Kentucky, USA
 * Research Funding with a University Social Responsibility (USR) Focus (2021), Pontifical Catholic University of Peru
 * Bachelor’s Thesis Development Support Program - PADET (2019), Pontifical Catholic University of Peru
-* Science, Technology, and Innovation Mobility Grant - Presentations (2019), Peruvian Council for Science, Technology, and Innovation (Prociencia), Pontifical Catholic University of Peru
+
+**Travel Grants**
+* Appalachian Center Student Travel Award, University of Kentucky, USA
+* Science, Technology, and Innovation Mobility Grant - Presentations (2019), Peruvian Council for Science, Technology, and Innovation (Prociencia)
 * AGU 2017 Student Travel Grant, American Geophysical Union, USA
   
 Service and Outreach

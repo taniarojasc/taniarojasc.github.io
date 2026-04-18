@@ -15,11 +15,11 @@ Education
 
 Work Experience
 ======
-* 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin – Green Bay, USA
+* 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin–Green Bay, USA
   
-* 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin – Green Bay, USA 
+* 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin–Green Bay, USA 
 
-* 11/2021-01/2022: **Sustainability Research, Policy, and Engagement Intern**, Environmental and Management Business Institute, University of Wisconsin – Green Bay, USA
+* 11/2021-01/2022: **Sustainability Research, Policy, and Engagement Intern**, Environmental and Management Business Institute, University of Wisconsin–Green Bay, USA
   
 *  04/2021-present: **Environmental Consultant**, RED YAKU, Peru
  
@@ -32,25 +32,29 @@ Work Experience
 Funding
 ======
 **Awards**
-* Young Women Engineer Award (Premio Ingeniera Joven CIP) 2025, College of Engineers of Peru
-* 2023 Outstanding Master’s Thesis Award, University of Wisconsin – Green Bay, USA
-* Victor Miguel Ponce Water Engineering Award 2022, Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
+* Young Women Engineer Award (Premio Ingeniera Joven CIP) 2025. College of Engineers of Peru
+* 2023 Outstanding Master’s Thesis Award. University of Wisconsin–Green Bay, USA
+* Victor Miguel Ponce Water Engineering Award 2022. Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   
 **Fellowships and Grants**
-* CMM PhD Visiting Program 2025, Center for Mathematical Modeling at the University of Chile
-* Barbara Hauxhurst Cofrin Graduate Research Fellowship 2022-2023, University of Wisconsin – Green Bay, USA
-* Silver Phoenix Scholar Award 2021, University of Wisconsin – Green Bay, USA
-* Research Funding with a University Social Responsibility (USR) Focus (2021), Pontifical Catholic University of Peru
-* Bachelor’s Thesis Development Support Program - PADET (2019), Pontifical Catholic University of Peru
+* Jack & Linda Gill Fellowship. College of Arts and Sciences, University of Kentucky, USA
+* Waterbird Society Research Award 2026. The Waterbird Society, USA
+* Kuehne Fellowship. Department of Biology, University of Kentucky, USA
+* CMM PhD Visiting Program 2025. Center for Mathematical Modeling at the University of Chile
+* Barbara Hauxhurst Cofrin Graduate Research Fellowship 2022-2023. University of Wisconsin–Green Bay, USA
+* Silver Phoenix Scholar Award 2021. University of Wisconsin–Green Bay, USA
+* Research Funding with a University Social Responsibility (USR) Focus 2021. Pontifical Catholic University of Peru
+* Bachelor’s Thesis Development Support Program-PADET 2019. Pontifical Catholic University of Peru
 
 **Travel Grants**
-* Appalachian Center Student Travel Award, University of Kentucky, USA
-* Science, Technology, and Innovation Mobility Grant - Presentations (2019), Peruvian Council for Science, Technology, and Innovation (Prociencia)
-* AGU 2017 Student Travel Grant, American Geophysical Union, USA
+* Appalachian Center Student Travel Award. University of Kentucky, USA
+* Science, Technology, and Innovation Mobility Grant-Presentations 2019. Peruvian Council for Science, Technology, and Innovation (Prociencia)
+* AGU 2017 Student Travel Grant. American Geophysical Union, USA
   
 Service and Outreach
 ======
 **University of Kentucky**
+* 2026-2027 International Students' Affairs Representative, Biology Graduate Students Association
 * 2024-2025 International Students' Affairs Representative, Biology Graduate Students Association
 * Artwork “Monarch and Milkweed” (Watercolor on Paper), exhibited at the Spring 2024 GSC Pop-Up Student Art Exhibit, Gatton Student Center
 
@@ -61,9 +65,6 @@ Service and Outreach
 **University of Engineering and Technology (UTEC)**
 * Coordinator of the LOC. V Peruvian Water Congress in Peru
 * Coordinator of the LOC & Proposal Writer. Proposal submitted to the Mountain Research Initiative (MRI) to organize the I Tropical Glaciers Symposium in Peru
-
-**Onewater**
-* Current volunteer translator from English to Spanish
 
 Languages
 ======

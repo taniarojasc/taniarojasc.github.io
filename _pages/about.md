@@ -13,8 +13,8 @@ Besides my academic journey, I work as an environmental consultant on projects r
 
 Research Work
 ======
-My research integrates remote sensing, GIS, and quantitative modeling to investigate ecosystems and their responses to natural and anthropogenic pressures. Currently, I am working on how mining impacts biodiversity through diverse pathways at different spatial and temporal scales, and the effectiveness of restoration practice. My doctoral dissertation focuses on understanding how extractive industries reshape ecosystems and alter species’ spatial dynamics, emphasizing how structural habitat degradation constrains biodiversity and how restoration must be tailored to improve habitat quality.
+My research integrates remote sensing, GIS, and quantitative modeling to investigate the relationships between landscape dynamics and organisms in freshwater and terrestrial ecosystems. I particularly focus on how these systems respond to the human footprint. Currently, I focus on how extractive industries, such as mining, reorganize ecosystems, emphasizing how anthropogenic disturbances redirect biodiversity responses.
 
 Contact me
 ------
-You can contact me via email at **tania[dot]rojas[at]uky[dot]edu** or **tvrojas02[at]gmail[dot]com**
+You can contact me via email at **tania.rojas@uky.edu**

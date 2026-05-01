@@ -11,7 +11,7 @@ I am originally from Peru, and my academic and professional journey provided me 
 
 Research Work
 ======
-My research integrates remote sensing, GIS, and quantitative modeling to examine how landscape dynamics shape patterns of biodiversity across systems. I am particularly interested on how these systems respond to the human footprint. Currently, I focus on how extractive industries, such as mining, reorganize responses across conceptual levels (populations, communities, ecosystems, landscapes), emphasizing how anthropogenic disturbances reshape these patterns and processes.
+My research integrates remote sensing, GIS, and quantitative modeling to examine how landscape dynamics shape patterns of biodiversity across systems. I am particularly interested on how these systems respond to the human footprint. Currently, I focus on how extractive industries (anthropogenic disturbances), such as mining, reorganize responses across conceptual levels (populations, communities, ecosystems, landscapes).
 
 Contact me
 ------

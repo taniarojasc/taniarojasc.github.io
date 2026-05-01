@@ -37,6 +37,7 @@ Funding
 * Victor Miguel Ponce Water Engineering Award 2022. Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   
 **Fellowships and Grants**
+* UK Appalachian Center Eller & Billings Student Research Award. Appalachian Center and Appalachian Studies Program, University of Kentucky, USA
 * Jack & Linda Gill Fellowship. College of Arts and Sciences, University of Kentucky, USA
 * Waterbird Society Research Award 2026. The Waterbird Society, USA
 * Kuehne Fellowship. Department of Biology, University of Kentucky, USA

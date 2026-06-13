@@ -11,7 +11,7 @@ Education
 ======
 * 2023 - present, **Ph.D. in Biology**, University of Kentucky
 * 2023, **M.S. in Environmental Science & Policy**. Emphasis in Ecosystem Studies. University of Wisconsin-Green Bay
-* 2018, **B.S. in Civil Engineering**. Pontifical Catholic University of Peru
+* 2017, **B.S. in Civil Engineering**. Pontifical Catholic University of Peru
 
 Professional Experience
 ======

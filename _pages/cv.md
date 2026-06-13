@@ -13,8 +13,10 @@ Education
 * 2023, **M.S. in Environmental Science & Policy**. Emphasis in Ecosystem Studies. University of Wisconsin-Green Bay
 * 2018, **B.S. in Civil Engineering**. Pontifical Catholic University of Peru
 
-Work Experience
+Professional Experience
 ======
+* 06/2026-08/2026: **PhD Visiting Scholar**, CMM - Center for Mathematical Modeling, University of Chile, Santiago, Chile
+
 * 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin–Green Bay, USA
   
 * 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin–Green Bay, USA 

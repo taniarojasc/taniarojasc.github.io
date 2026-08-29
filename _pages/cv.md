@@ -20,16 +20,12 @@ Professional Experience
 * 05/2023-07/2023: **Field Assistant**, Cofrin Center for Biodiversity, University of Wisconsin–Green Bay, USA
   
 * 05/2022-08/2022: **Student Biological Science Technician**, Aquatic Ecology and Fisheries Laboratory, University of Wisconsin–Green Bay, USA 
-
-* 11/2021-01/2022: **Sustainability Research, Policy, and Engagement Intern**, Environmental and Management Business Institute, University of Wisconsin–Green Bay, USA
   
 *  04/2021-present: **Environmental Consultant**, RED YAKU, Peru
  
 * 08/2019-05/2020: **Research Analyst**, Office of Research, University of Engineering and Technology (UTEC), Peru
  
 * 01/2017-03/2021: **Research Assistant and Formulator of Environmental Projects**, Water Research Center CITA, University of Engineering and Technology (UTEC), Peru
- 
-* 01/2015-03/2015: **Project Intern**, Peru Hydraulics SAC, Peru
   
 Funding
 ======

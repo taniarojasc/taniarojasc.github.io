@@ -35,6 +35,7 @@ Funding
 * Victor Miguel Ponce Water Engineering Award 2022. Peruvian Association of Hydraulic and Environmental Engineering (APIHA)
   
 **Fellowships and Grants**
+* 2026 WWF-GEF Fonseca Leadership Program Fellowship. WWF’s Russell E. Train Education for Nature Program (EFN), USA
 * UK Appalachian Center Eller & Billings Student Research Award. Appalachian Center and Appalachian Studies Program, University of Kentucky, USA
 * Jack & Linda Gill Fellowship. College of Arts and Sciences, University of Kentucky, USA
 * Waterbird Society Research Award 2026. The Waterbird Society, USA
@@ -44,11 +45,6 @@ Funding
 * Silver Phoenix Scholar Award 2021. University of Wisconsin–Green Bay, USA
 * Research Funding with a University Social Responsibility (USR) Focus 2021. Pontifical Catholic University of Peru
 * Bachelor’s Thesis Development Support Program-PADET 2019. Pontifical Catholic University of Peru
-
-**Travel Grants**
-* Appalachian Center Student Travel Award. University of Kentucky, USA
-* Science, Technology, and Innovation Mobility Grant-Presentations 2019. Peruvian Council for Science, Technology, and Innovation (Prociencia)
-* AGU 2017 Student Travel Grant. American Geophysical Union, USA
   
 Service and Outreach
 ======
